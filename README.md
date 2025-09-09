@@ -15,6 +15,8 @@ La única modificación permitida es la escala (¡manteniendo la proporción!).
 Siempre que sea posible, se utilizará la versión vectorial (SVG), ya que ofrece la máxima calidad.
 En caso de no poder utilizar este formato, podrá emplearse otro formato exportado directamente desde el SVG oficial al tamaño necesario, garantizando así la mejor calidad posible.
 
+Se proporcionan también logos en formato PNG para cuatro tamaños diferentes.
+
 ## Fondo y variantes
 
 En cuanto a la transparencia del fondo (con o sin fondo), podrá elegirse en función de las necesidades de cada situación.
